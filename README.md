@@ -24,9 +24,9 @@ Go • Java/Spring • Python • Kubernetes • Docker • Terraform • AWS
 ## Projects
 
 Repositories here include experiments in:
-- infrastructure automation
-- system architecture patterns
-- developer tooling
+- [infrastructure automation](https://github.com/noctemlabs/carlos-portfolio/tree/main/k8s)
+- [system architecture patterns](https://github.com/noctemlabs/carlos-portfolio)
+- developer tooling (_comming soon..._)
 
 ## Connect
 
